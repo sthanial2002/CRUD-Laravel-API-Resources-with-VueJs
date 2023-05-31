@@ -1,7 +1,6 @@
 Sure! Here's a sample "README.md" file for a CRUD tutorial using Laravel and Vue.js:
 
 ```
-
 # CRUD Tutorial: Laravel and Vue.js
 
 
