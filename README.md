@@ -1,7 +1,9 @@
 Sure! Here's a sample "README.md" file for a CRUD tutorial using Laravel and Vue.js:
 
 ```
+
 # CRUD Tutorial: Laravel and Vue.js
+
 
 This repository contains the code for a CRUD (Create, Read, Update, Delete) tutorial using Laravel and Vue.js. In this tutorial, we will build a simple web application that allows users to manage a list of items.
 
